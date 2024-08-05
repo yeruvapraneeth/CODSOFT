@@ -1,1 +1,3 @@
-titanic surivied predictions
+CODSOFT PROJECT
+AUTHER:YERUVA PRANEETH REDDY
+
